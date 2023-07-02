@@ -1,3 +1,3 @@
-##Make course registration cart##
+## Make course registration cart ##
 
 Use **cookie and session**. but not ~~perfect~~.
